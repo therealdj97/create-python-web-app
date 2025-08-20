@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "create_python_web_app"
+version = "0.1.1"
+description = "Python package to quickly scaffold web applications with Flask, Django, or FastAPI, providing a ready-to-use folder structure and starter templates."
+readme = "README.md"
+authors = [{name="dhiraj", email="dhirajjohare1497@gmail.com"}]
+license = {text = "MIT"}
+dependencies = []

@@ -1,0 +1,7 @@
+README.md
+main.py
+pyproject.toml
+create_python_web_app.egg-info/PKG-INFO
+create_python_web_app.egg-info/SOURCES.txt
+create_python_web_app.egg-info/dependency_links.txt
+create_python_web_app.egg-info/top_level.txt
